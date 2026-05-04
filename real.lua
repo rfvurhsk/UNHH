@@ -1,17 +1,4 @@
--- == [Bypass] ==
 loadstring(game:HttpGet("https://pastefy.app/pDhoQmem/raw"))()
-
---[[
-    scoot ui library
-    made by samet
-    
-    https://discord.gg/VhvTd5HV8d
-    ^^ join for custom commissions
-
-    example/documentation is at the bottom
-    date: 19.07.2025
-]]
-
 if Library then
     Library:Unload()
 end
